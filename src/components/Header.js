@@ -68,6 +68,10 @@ export default class Header extends Component {
               <i className="icon-down-circle"></i>
             </a>
           </p>
+
+          <div>
+            <div className="imageH"></div>
+          </div>
         </header>
       </React.Fragment>
     );

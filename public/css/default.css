@@ -830,6 +830,11 @@ input[type="checkbox"] {
   margin: 0 auto;
 }
 
+div.imageH {
+  content: url(http://https://quotefancy.com/media/wallpaper/3840x2160/766550-Denzel-Washington-Quote-Dreams-without-goals-are-just-dreams-and.jpg);
+}
+​
+
 /* removed gutters */
 .row.collapsed > .column,
 .row.collapsed > .columns,
