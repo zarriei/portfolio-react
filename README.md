@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Responsive-Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
 
-## Available Scripts
+The assignment responsive portfolio was tasked to us for two primary purposes.
+First, it allowed us to build the framework for our digital portfolio. while building the foundation of our portfolio,
+we were asked to utilize Bootstrap and all it had to offer to make our page layouts/designs concise with aconsistent flow.
+Consistent flows were achiveed by utilizing the grid system in Bootstrap.
+This assignment was actually quite enjoyable. I not only learned how to utilize Bootstrap to build quick frameworks but have realized how everything that we
+have been learning is a building block ultimately for something else.
 
-In the project directory, you can run:
+Second, this assignment tasked us to make sure our websites were responsive in regards to a variety of different screen sizes. This day and age, screens are only getting smaller (and curvier as well) and most people use their phones to quickly acess the world wide web. As a result, it is of the up most importance that our websites, and especially our portfolio, auto-adjusts to fit the respective screen of the device. I am most eager to use more of what I learn to mold my portfolio into a profesional grade digital portfolio in which can and will be used on the hunt for my next role within my company.
 
-### `yarn start`
+The Portfolio was created via react and it took a bit of a learning curve to learn but it was a great learning experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Furthermore, have a good foundation in anyting is vital. I believe that this assignment and the use of Bootstrap will come in handy throughout my professional or personal endeavors.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+I have updated my portfolio page to incorporate two homework assignments and our most recent project that we have finished.
 
-### `yarn test`
+##License
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+MIT License
 
-### `yarn build`
+Copyright (c) [2021][eiman zarrinhonar]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
