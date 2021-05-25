@@ -16,6 +16,12 @@ export default class ContactUs extends Component {
             <div className="widget">
               <h4>Linked in :{resumeData.linkedinId}</h4>
               <a href="mailto:eiman.h.zarrinh@gmail.com">Email Me</a>
+              <br></br>
+              <a href="https://github.com/zarriei">GitHub</a>
+              <br></br>
+              <a href="https://www.linkedin.com/in/eiman-zarrinhonar/">
+                LinkedIn
+              </a>
             </div>
           </aside>
         </div>
